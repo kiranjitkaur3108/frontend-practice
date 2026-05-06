@@ -13,7 +13,7 @@ This is my solution to the QR Code Component challenge on Frontend Mentor. This 
 ### Links
 
 - Solution URL: https://github.com/kiranjitkaur3108/frontend-practice
-- Live Site URL:
+- Live Site URL: https://kiranjitkaur3108.github.io/frontend-practice/
 
 ---
 
